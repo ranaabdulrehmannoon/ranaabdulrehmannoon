@@ -134,10 +134,51 @@
 
 
 
+
 ---
 
+## 📊 GitHub Stats
 
+<div align="center">
 
+<!-- GitHub Stats + Top Languages side by side -->
+<a href="https://github.com/ranaabdulrehmannoon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranaabdulrehmannoon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E56CF&icon_color=6E56CF&text_color=C9D1D9&ring_color=6E56CF" />
+</a>
+<a href="https://github.com/ranaabdulrehmannoon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaabdulrehmannoon&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E56CF&text_color=C9D1D9" />
+</a>
+
+</div>
+
+<!-- Streak Stats -->
+<div align="center">
+
+<a href="https://github.com/ranaabdulrehmannoon">
+  <img src="https://streak-stats.demolab.com?user=ranaabdulrehmannoon&theme=tokyonight&hide_border=true&background=0D1117&ring=6E56CF&fire=FF6B6B&currStreakLabel=6E56CF&sideLabels=C9D1D9&currStreakNum=ffffff&sideNums=ffffff&dates=8B949E" />
+</a>
+
+</div>
+
+<!-- Trophies -->
+<div align="center">
+
+<a href="https://github.com/ranaabdulrehmannoon">
+  <img src="https://github-profile-trophy.vercel.app/?username=ranaabdulrehmannoon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</a>
+
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+
+<a href="https://github.com/ranaabdulrehmannoon">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranaabdulrehmannoon&bg_color=0D1117&color=6E56CF&line=6E56CF&point=FF6B6B&area=true&area_color=6E56CF&hide_border=true" width="100%" />
+</a>
+
+</div>
+
+---
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  CONTRIBUTION SNAKE                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
