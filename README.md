@@ -108,15 +108,8 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranaabdulrehmannoon/ranaabdulrehmannoon/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranaabdulrehmannoon/ranaabdulrehmannoon/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ranaabdulrehmannoon/ranaabdulrehmannoon/output/github-contribution-grid-snake-dark.svg" />
-</picture>
 
-</div>
-
-> **Setup**: Add the [GitHub Actions workflow](https://github.com/Platane/snk) to your profile repo to generate the snake animation automatically.
+![snake gif](https://github.com/ranaabdulrehmannoon/ranaabdulrehmannoon/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
