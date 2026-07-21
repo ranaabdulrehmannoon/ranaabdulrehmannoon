@@ -1,44 +1,18 @@
-<!-- 
-=======================================================================
-  RANA ABDUL REHMAN NOON | GITHUB PROFILE README 
-  Design: Premium, Modern, Clean, Recruiter-Friendly
-  Theme: Dark/Light Adaptive with Gradient Accents
-=======================================================================
--->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Rana%20Abdul%20Rehman%20Noon!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20@%20NUST%20|%20AI%20%26%20Software%20Engineer&descAlignY=60&descAlign=62" width="100%" alt="Header Background Animation" />
-</div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Computer+Science+Student;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Computer+Vision+Enthusiast;AI+Agent+%26+Automation+Builder;Next.js+Developer+%26+Problem+Solver" alt="Typing SVG Animation" />
-  </a>
-</div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ANIMATED WAVE                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<br />
+![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rana%20Abdul%20Rehman%20Noon&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=56&descSize=18)
 
-<div align="center">
-  <a href="https://github.com/yourgithubusername">
-    <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views Counter" />
-  </a>
-  <a href="https://github.com/yourgithubusername?tab=followers">
-    <img src="https://img.shields.io/github/followers/yourgithubusername?label=Followers&style=for-the-badge&color=2563EB" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/yourgithubusername?tab=repositories">
-    <img src="https://img.shields.io/github/stars/yourgithubusername?style=for-the-badge&color=FFD700" alt="GitHub Stars" />
-  </a>
-</div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED TYPING EFFECT                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<br />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there%2C+I'm+Abdul+Rehman+%F0%9F%91%8B;Computer+Science+Student%40+NUST+Pakistan;AI/ML+Engineer+%7C;Building+Intelligent+Systems+%F0%9F%A4%96;Computer+Vision+%7C+LLMs+%7C+AI+Agents;Full+Stack+Dev+%7C+Next.js+%7C+React)](https://git.io/typing-svg)
 
-<div align="center">
-  <i>"Passionate about building scalable systems, intelligent AI agents, and solving complex problems with clean, efficient code."</i>
-</div>
 
-<br />
-
----
 
 ## 🚀 About Me
 
@@ -47,23 +21,21 @@
     <td width="65%" valign="top">
       <ul>
         <li>🎓 <b>Current Status:</b> Computer Science Student at <b>NUST</b> (National University of Sciences and Technology)</li>
-        <li>🔭 <b>Currently working on:</b> Advanced AI Agents, scalable Full Stack Applications, and Computer Vision models.</li>
-        <li>🌱 <b>Currently learning:</b> State-of-the-art LLM architectures, distributed cloud backend systems, and Next.js optimization.</li>
+        <li>🔭 <b>Currently working on:</b> Advanced AI Agents, scalable Full Stack Applications, Computer Vision models, LLM architectures, Distributed cloud backend systems, and Next.js optimization.</li>
         <li>👯 <b>Looking to collaborate on:</b> Open-source AI projects, innovative automation workflows, and high-impact software solutions.</li>
-        <li>🎯 <b>Career Goals:</b> Software Engineering Intern, Machine Learning Researcher, or AI Engineer at a top-tier tech company.</li>
         <li>⚡ <b>Fun Fact:</b> I love optimizing everything—from complex neural networks down to my daily routine.</li>
-        <li>📫 <b>How to reach me:</b> <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+        <li>📫 <b>How to reach me:</b> <a href="mailto:ranaabdulrehmannoon59@gmail.com">ranaabdulrehmannoon59@gmail.com</a></li>
       </ul>
     </td>
     <td width="35%" align="center" valign="center">
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="200" alt="Modern Developer Animation" />
+      <img align="right" alt="AI Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius:12px;" />
     </td>
   </tr>
 </table>
 
 <div align="center">
   <p align="center">
-    <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/rana-abdul-rehman-noon-8b84b0337"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
     <a href="YOUR_LOCATION_LINK"><img src="https://img.shields.io/badge/Location-Islamabad,%20Pakistan-005999?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/></a>
@@ -123,229 +95,114 @@
 
 ---
 
-## 🏆 Featured Projects
-
-<table align="center" border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔍 AI Bottle Defect Detection</h3>
-      <div align="center">
-        <a href="YOUR_GITHUB_REPO_LINK">
-          <img src="https://via.placeholder.com/500x250/0D1117/2563EB?text=AI+Bottle+Defect+Detection" alt="AI Bottle Defect Detection Thumbnail" style="border-radius: 8px;" />
-        </a>
-      </div>
-      <p align="center">
-        An advanced computer vision system designed to detect microscopic defects in bottles during the manufacturing process, ensuring stringent quality control and automated precision.
-      </p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-      </div>
-      <br />
-      <div align="center">
-        <a href="YOUR_GITHUB_REPO_LINK"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-        <a href="YOUR_LIVE_DEMO_LINK"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" /></a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏫 CampusConnekt</h3>
-      <div align="center">
-        <a href="YOUR_GITHUB_REPO_LINK">
-          <img src="https://via.placeholder.com/500x250/0D1117/2EC866?text=CampusConnekt" alt="CampusConnekt Thumbnail" style="border-radius: 8px;" />
-        </a>
-      </div>
-      <p align="center">
-        A comprehensive platform for university students to connect, share resources, and stay updated with campus events in real-time. Built on a scalable Next.js and Node.js architecture.
-      </p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-      </div>
-      <br />
-      <div align="center">
-        <a href="YOUR_GITHUB_REPO_LINK"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-        <a href="YOUR_LIVE_DEMO_LINK"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" /></a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <br />
-      <h3 align="center">👥 Employee Attendance System</h3>
-      <div align="center">
-        <a href="YOUR_GITHUB_REPO_LINK">
-          <img src="https://via.placeholder.com/500x250/0D1117/FF6F00?text=Employee+Attendance+System" alt="Employee Attendance System Thumbnail" style="border-radius: 8px;" />
-        </a>
-      </div>
-      <p align="center">
-        A robust enterprise-level system for tracking employee attendance. Features seamless database integration, reporting tools, and an intuitive UI/UX built for HR departments.
-      </p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      </div>
-      <br />
-      <div align="center">
-        <a href="YOUR_GITHUB_REPO_LINK"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <br />
-      <h3 align="center">🩸 AI Vein Visualization System</h3>
-      <div align="center">
-        <a href="YOUR_GITHUB_REPO_LINK">
-          <img src="https://via.placeholder.com/500x250/0D1117/FF4F8B?text=AI+Vein+Visualization" alt="AI Vein Visualization Thumbnail" style="border-radius: 8px;" />
-        </a>
-      </div>
-      <p align="center">
-        A medical AI application that processes near-infrared images to visualize human veins in real-time. Assists medical professionals with enhanced precision and patient care.
-      </p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-      </div>
-      <br />
-      <div align="center">
-        <a href="YOUR_GITHUB_REPO_LINK"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" width="100%" valign="top">
-      <br />
-      <h3 align="center">✨ Personal Portfolio Website</h3>
-      <div align="center">
-        <a href="YOUR_PORTFOLIO_URL">
-          <img src="https://via.placeholder.com/1000x250/0D1117/8A2BE2?text=Personal+Portfolio+Website" alt="Portfolio Website Thumbnail" style="border-radius: 8px;" />
-        </a>
-      </div>
-      <p align="center">
-        My personal corner of the internet. A highly interactive, performant, and beautifully designed portfolio showcasing my technical projects, articles, and journey as a software engineer.
-      </p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-      </div>
-      <br />
-      <div align="center">
-        <a href="YOUR_GITHUB_REPO_LINK"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-        <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" /></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-## ⏳ Experience & Timeline
-
-| Date | Role & Organization | Description |
-| :---: | :--- | :--- |
-| **[Current]** | 📚 **Computer Science Student** @ *NUST* | Expanding my theoretical and practical knowledge in core computer science algorithms, distributed systems, and artificial intelligence. |
-| **[Year - Year]** | 💻 **[Internship Role]** @ *[Company Placeholder]* | Designed and implemented scalable backend APIs. Improved system performance by X% using modern architecture and database optimization. |
-| **[Year - Year]** | 🔬 **AI Research Assistant** @ *[Lab Placeholder]* | Developed machine learning pipelines and fine-tuned computer vision models for real-world automated applications. |
-| **[Year - Year]** | 🤝 **Open Source Contributor** | Contributed production-ready code, technical documentation, and critical bug fixes to prominent open-source projects. |
-| **[Year - Year]** | 🛠️ **[Leadership/Volunteer Role]** @ *[Org Placeholder]* | Led a cross-functional team of developers to build [Project Name], fostering a culture of collaboration and technical excellence. |
-
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB ANALYTICS                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=2563EB" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="GitHub Streak" width="49%" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranaabdulrehmannoon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6E56CF&icon_color=6E56CF&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaabdulrehmannoon&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E56CF&text_color=c9d1d9" />
+
 </div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ranaabdulrehmannoon&theme=tokyonight&hide_border=true&background=0d1117&ring=6E56CF&fire=FF6B6B&currStreakLabel=6E56CF" width="70%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ranaabdulrehmannoon&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6E56CF&line=6E56CF&point=FF6B6B&area=true" width="100%" />
+
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ranaabdulrehmannoon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  CONTRIBUTION SNAKE                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranaabdulrehmannoon/ranaabdulrehmannoon/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranaabdulrehmannoon/ranaabdulrehmannoon/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ranaabdulrehmannoon/ranaabdulrehmannoon/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+> **Setup**: Add the [GitHub Actions workflow](https://github.com/Platane/snk) to your profile repo to generate the snake animation automatically.
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    PREMIUM BADGES                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🔖 What I Work With
+
+<div align="center">
+
+![AI Engineer](https://img.shields.io/badge/AI%20Engineer-6E56CF?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00B4D8?style=for-the-badge&logo=opencv&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-00C853?style=for-the-badge&logo=github&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solver-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      CONNECT                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+*I'm always open to collaborating on interesting projects, research, or just a good tech conversation.*
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourgithubusername&theme=tokyonight" alt="Profile Details" width="49%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourgithubusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
-<br />
-
-### 🐍 Contribution Activity
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourgithubusername/yourgithubusername/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourgithubusername/yourgithubusername/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourgithubusername/yourgithubusername/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 📈 Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourwakatimeusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="WakaTime Activity" />
-</div>
-
----
-
-## 📜 Certifications & Achievements
-
-<div align="center">
-
-| 🏆 Credential / Achievement | 🏢 Issuer | 📅 Date | 🔗 Link |
-| :--- | :--- | :---: | :---: |
-| **[Certification Name Placeholder]** | [Organization Placeholder] | *Month Year* | [View](#) |
-| **[Machine Learning Specialization Placeholder]** | [Platform Placeholder] | *Month Year* | [View](#) |
-| **[1st Place - Hackathon Name Placeholder]** | [Organization Placeholder] | *Month Year* | [View](#) |
-| **[Outstanding Academic Achievement]** | NUST | *Month Year* | [View](#) |
+[![GitHub](https://img.shields.io/badge/GitHub-ranaabdulrehmannoon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranaabdulrehmannoon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6E56CF?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_USERNAME)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/YOUR_USERNAME)
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
-
 <div align="center">
-
-<p>I'm always open to discussing new technology, AI breakthroughs, professional opportunities, or just having a chat!</p>
-
-<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
-<a href="https://twitter.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=twitter" alt="X/Twitter" /></a>
-<a href="https://discordapp.com/users/YOUR_ID"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
-<a href="https://medium.com/@YOUR_USERNAME"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-<a href="https://hashnode.com/@YOUR_USERNAME"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
-<a href="https://dev.to/YOUR_USERNAME"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
-<br /><br />
-<a href="https://leetcode.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<a href="https://hackerrank.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-<a href="https://kaggle.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
-<a href="https://scholar.google.com/citations?user=YOUR_ID"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a>
-
-</div>
-
----
-
-## ☕ Support My Work
-
-<div align="center">
-  <p>If my open-source projects have helped you or you just want to support my journey as a developer, I'd really appreciate a coffee!</p>
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=YOUR_USERNAME&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer Animation" />
   <p><i>"The best way to predict the future is to invent it."</i></p>
   <p><b>Thank you for visiting my profile! Have an awesome day. 🚀</b></p>
 </div>
