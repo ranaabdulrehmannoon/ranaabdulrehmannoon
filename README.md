@@ -139,14 +139,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<!-- Row 1: Stats + Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranaabdulrehmannoon&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E56CF&icon_color=6E56CF&text_color=C9D1D9&ring_color=6E56CF&cache_seconds=1800" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaabdulrehmannoon&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=6E56CF&text_color=C9D1D9&cache_seconds=1800" />
-
-</div>
 
 <!-- Row 2: Streak -->
 <div align="center">
@@ -158,7 +151,7 @@
 <!-- Row 3: Trophies -->
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ranaabdulrehmannoon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
 
 </div>
 
