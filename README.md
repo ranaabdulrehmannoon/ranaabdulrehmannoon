@@ -14,6 +14,11 @@
 
 
 
+
+</div>
+
+
+
 ## 🚀 About Me
 
 <table border="0" width="100%">
@@ -37,8 +42,6 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/rana-abdul-rehman-noon-8b84b0337"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:ranaabdulrehmannoon59@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-    <a href="YOUR_LOCATION_LINK"><img src="https://img.shields.io/badge/Location-Islamabad,%20Pakistan-005999?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/></a>
   </p>
 </div>
 
@@ -46,6 +49,7 @@
 
 ## 💻 Technology Stack
 
+<div align="center">
 
 ### Programming Languages
 <p align="center">
@@ -119,14 +123,6 @@
 
 </div>
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ranaabdulrehmannoon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
-
-</div>
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -189,12 +185,8 @@
 <br />
 
 [![GitHub](https://img.shields.io/badge/GitHub-ranaabdulrehmannoon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranaabdulrehmannoon)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6E56CF?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_USERNAME)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-abdul-rehman-noon-8b84b0337)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranaabdulrehmannoon59@gmail.com)
 
 </div>
 
