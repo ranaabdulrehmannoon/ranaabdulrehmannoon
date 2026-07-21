@@ -60,9 +60,16 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+### Markup & Styling
+
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 ---
@@ -81,13 +88,16 @@
 ---
 
 ### AI & Machine Learning
+
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-F9AB00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
-  <img src="https://img.shields.io/badge/AI%20Agents-2563EB?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-FF4F8B?style=for-the-badge&logo=google-lens&logoColor=white" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-000000?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-2563EB?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-FF4F8B?style=flat-square&logo=opencv&logoColor=white" />
 </p>
 
 ---
@@ -101,28 +111,27 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/n8n-EA4335?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Automation" />
+  <img src="https://img.shields.io/badge/n8n-EA4335?style=flat-square&logo=n8n&logoColor=white" />
 </p>
 
 ---
 
 ### Databases
 
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
-  <img src="https://img.shields.io/badge/PL/SQL-F40000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
-</p>
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-F40000?style=flat-square&logo=oracle&logoColor=white" />
 </p>
 
 </div>
+
 
 
 ---
