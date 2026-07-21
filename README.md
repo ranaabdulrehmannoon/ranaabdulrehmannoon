@@ -175,12 +175,12 @@
 <!--                  CONTRIBUTION SNAKE                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🐍 Contribution Snake
+## 🐍 Contributions
 
 <div align="center">
 
 
-![snake gif](https://github.com/ranaabdulrehmannoon/ranaabdulrehmannoon/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ranaabdulrehmannoon/ranaabdulrehmannoon/blob/output/github-snake-dark.svg)
 </div>
 
 
