@@ -10,7 +10,7 @@
 <!--                    ANIMATED TYPING EFFECT                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there%2C+I'm+Abdul+Rehman+%F0%9F%91%8B;Computer+Science+Student%40+NUST+Pakistan;AI/ML+Engineer+%7C;Building+Intelligent+Systems+%F0%9F%A4%96;Computer+Vision+%7C+LLMs+%7C+AI+Agents;Full+Stack+Dev+%7C+Next.js+%7C+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there%2C+I'm+Abdul+Rehman+%F0%9F%91%8B;Computer+Science+Student+%40+NUST;AI/ML+Engineer;Building+Intelligent+Systems+%F0%9F%A4%96;Computer+Vision+%7C+LLMs+%7C+AI+Agents;Full+Stack+Dev+%7C+Next.js+%7C+React)](https://git.io/typing-svg)
 
 
 
@@ -36,7 +36,7 @@
 <div align="center">
   <p align="center">
     <a href="https://www.linkedin.com/in/rana-abdul-rehman-noon-8b84b0337"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="mailto:ranaabdulrehmannoon59@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
     <a href="YOUR_LOCATION_LINK"><img src="https://img.shields.io/badge/Location-Islamabad,%20Pakistan-005999?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/></a>
   </p>
@@ -46,7 +46,6 @@
 
 ## 💻 Technology Stack
 
-<div align="center">
 
 ### Programming Languages
 <p align="center">
@@ -203,6 +202,5 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer Animation" />
-  <p><i>"The best way to predict the future is to invent it."</i></p>
   <p><b>Thank you for visiting my profile! Have an awesome day. 🚀</b></p>
 </div>
