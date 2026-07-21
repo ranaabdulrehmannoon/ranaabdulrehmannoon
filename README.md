@@ -4,13 +4,13 @@
 <!--                        ANIMATED WAVE                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rana%20Abdul%20Rehman%20Noon&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=56&descSize=18)
+![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rana%20Abdul%20Rehman%20Noon&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=56&descSize=18)
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    ANIMATED TYPING EFFECT                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there%2C+I'm+Abdul+Rehman+%F0%9F%91%8B;Computer+Science+Student+%40+NUST;AI/ML+Engineer;Building+Intelligent+Systems+%F0%9F%A4%96;Computer+Vision+%7C+LLMs+%7C+AI+Agents;Full+Stack+Dev+%7C+Next.js+%7C+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there%2C+I'm+Abdul+Rehman+%F0%9F%91%8B;Computer+Science+Student+%40+NUST;AI+Engineer;Building+Intelligent+Systems+%F0%9F%A4%96;Computer+Vision+%7C+LLMs+%7C+AI+Agents;Full+Stack+Dev+%7C+Next.js+%7C+React)](https://git.io/typing-svg)
 
 
 
