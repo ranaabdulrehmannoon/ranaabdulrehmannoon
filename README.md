@@ -139,15 +139,7 @@
 
 ## 📊 GitHub Stats
 
-<!-- Row 2: Streak -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ranaabdulrehmannoon&theme=tokyonight&hide_border=true&background=0D1117&ring=6E56CF&fire=FF6B6B&currStreakLabel=6E56CF&sideLabels=C9D1D9&currStreakNum=ffffff&sideNums=ffffff&dates=8B949E" alt="GitHub Streak" />
-</div>
 
-<!-- Row 3: Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ranaabdulrehmannoon&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
 
 <!-- Row 4: Activity Graph -->
 <div align="center">
