@@ -130,20 +130,8 @@
 
 
 
-
 ---
 
-## 📊 GitHub Stats
-
-
-
-<!-- Row 4: Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranaabdulrehmannoon&bg_color=0D1117&color=6E56CF&line=6E56CF&point=FF6B6B&area=true&area_color=6E56CF&hide_border=true" width="100%" alt="GitHub Activity Graph" />
-</div>
-
-
----
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  CONTRIBUTION SNAKE                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
