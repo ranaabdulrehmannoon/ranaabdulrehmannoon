@@ -10,7 +10,7 @@
 <!--                    ANIMATED TYPING EFFECT                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there%2C+I'm+Abdul+Rehman+%F0%9F%91%8B;Computer+Science+Student+%40+NUST;AI+Engineer;Building+Intelligent+Systems+%F0%9F%A4%96;Computer+Vision+%7C+LLMs+%7C+AI+Agents;Full+Stack+Dev+%7C+Next.js+%7C+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there%2C+I'm+Abdul+Rehman+%F0%9F%91%8B;AI+Engineer;Full+Stack+Developer;I+Build+AI-Powered+Systems+%F0%9F%A4%96;Computer+Vision+%7C+LLMs+%7C+AI+Agents+Engineer;)](https://git.io/typing-svg)
 
 
 
