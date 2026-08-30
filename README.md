@@ -24,13 +24,9 @@
 <table border="0" width="100%">
   <tr>
     <td width="65%" valign="top">
-      <ul>
-        <li>🎓 <b>Current Status:</b> Computer Science Student at <b>NUST</b> (National University of Sciences and Technology)</li>
-        <li>🔭 <b>Currently working on:</b> Advanced AI Agents, scalable Full Stack Applications, Computer Vision models, LLM architectures, Distributed cloud backend systems, and Next.js optimization.</li>
-        <li>👯 <b>Looking to collaborate on:</b> Open-source AI projects, innovative automation workflows, and high-impact software solutions.</li>
-        <li>⚡ <b>Fun Fact:</b> I enjoy building intelligent software that solves real-world problems through AI and clean engineering.</li>
-        <li>📫 <b>How to reach me:</b> <a href="mailto:ranaabdulrehmannoon59@gmail.com">ranaabdulrehmannoon59@gmail.com</a></li>
-      </ul>
+      <p>I'm an AI Engineer passionate about building intelligent, scalable, and practical software. I work across AI Agents, Computer Vision, LLMs, AI Automation, and modern Full Stack development, turning ideas into applications that solve real-world problems. Currently, I'm exploring advanced AI agent systems, computer vision models, scalable cloud backends, and high-performance web applications. I enjoy experimenting with new technologies, building useful automation workflows, and collaborating on innovative open-source projects. 
+ 
+📫 **Let's connect:** ranaabdulrehmannoon59@gmail.com</p>
     </td>
     <td width="35%" align="center" valign="center">
       <img align="right" alt="AI Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius:12px;" />
